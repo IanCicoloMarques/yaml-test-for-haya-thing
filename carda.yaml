@@ -1,0 +1,42 @@
+name: Haya's amazing cardy-thingy
+cards:
+    roleplayA:
+        name: lovey dovey mofu mofu restaurant
+        uke:
+            phrase1:
+                romaji: OWIE AWIE!!!
+                kanji: KIMOIIIII
+                furigana: quimôi
+            phrase2:
+                romaji: iiiieeeee
+                kanji: eeeeeeeiiiiii
+                furigana: no.
+        seme:
+            phrase1:
+                romaji: TAKE THAT!
+                kanji: THIS IS IT!
+                furigana: DECISIVE!
+            phrase2:
+                romaji: SORA!
+                kanji: DONALD!
+                furigana: GOOBI!
+    roleplayB:
+        name: pankeki
+        uke:
+            phrase1:
+                romaji: a
+                kanji: b
+                furigana: c
+            phrase2:
+                romaji: d
+                kanji: e
+                furigana: f
+        seme:
+            phrase1:
+                romaji: g
+                kanji: h
+                furigana: i
+            phrase2:
+                romaji: j
+                kanji: k
+                furigana: l
