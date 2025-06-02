@@ -1,0 +1,75 @@
+NEW ROLEPLAY:Restaurant (Worker)
+NEW CARD:1
+KANJI:ご 予約 はされているんでしょうか?
+FURIGANA:ご よやく はされているんでしょうか?
+ROMAJI:Go yoyaku wa sarete irun deshou ka?
+TRANSLATION:Have you made a reservation?
+
+NEW CARD:2
+KANJI:何名様 ですか?
+FURIGANA:なんめいさま ですか?
+ROMAJI:Nan mei-sama desu ka?
+TRANSLATION:How many people are in your party?
+
+NEW CARD:3
+KANJI:こちらの席へ どうぞ
+FURIGANA:こちらの せき へ どうぞ
+ROMAJI:Kochira no seki e douzo
+TRANSLATION:This way, please
+
+NEW ROLEPLAY:Restaurant (Customer)
+NEW CARD:1
+KANJI:はい、予約しています。名前はマルケスです。
+FURIGANA:はい、よやく しています。なまえ は マルケス です。
+ROMAJI:Hai, yoyaku shiteimasu. Namae wa Marukesu desu.
+TRANSLATION:Yes, I have a reservation. The name is Marques.
+
+NEW CARD:2
+KANJI:2人です。
+FURIGANA:ふたり です。
+ROMAJI:Futari desu.
+TRANSLATION:We are two.
+
+NEW CARD:3
+KANJI:ありがとうございます。
+FURIGANA:ありがとう ございます。
+ROMAJI:Arigatou gozaimasu.
+TRANSLATION:Thank you very much.
+
+NEW ROLEPLAY:Train Station (Seeker)
+NEW CARD:1
+KANJI:すみません、カバンをなくしました。
+FURIGANA:すみません、カバン を なくしました。
+ROMAJI:Sumimasen, kaban o nakushimashita.
+TRANSLATION:Excuse me, I lost my bag.
+
+NEW CARD:2
+KANJI:青いリュックで、中にパソコンが入っています。
+FURIGANA:あおい リュック で、なか に パソコン が はいっています。
+ROMAJI:Aoi ryukku de, naka ni pasokon ga haitteimasu.
+TRANSLATION:It's a blue backpack, with a laptop inside.
+
+NEW CARD:3
+KANJI:どこで聞けばいいですか?
+FURIGANA:どこ で きけば いい ですか?
+ROMAJI:Doko de kikeba ii desu ka?
+TRANSLATION:Where should I ask for help?
+
+NEW ROLEPLAY:Train Station (Staff)
+NEW CARD:1
+KANJI:落とし物ですね。いつなくされましたか?
+FURIGANA:おとしもの ですね。いつ なくされました か?
+ROMAJI:Otoshimono desu ne. Itsu nakusaremashita ka?
+TRANSLATION:A lost item, I see. When did you lose it?
+
+NEW CARD:2
+KANJI:確認してみますので、少々お待ちください。
+FURIGANA:かくにん してみます ので、しょうしょう おまち ください。
+ROMAJI:Kakunin shite mimasu node, shoushou omachi kudasai.
+TRANSLATION:Let me check, please wait a moment.
+
+NEW CARD:3
+KANJI:駅の事務室で受け取れます。
+FURIGANA:えき の じむしつ で うけとれます。
+ROMAJI:Eki no jimushitsu de uketoremasu.
+TRANSLATION:You can pick it up at the station office.
