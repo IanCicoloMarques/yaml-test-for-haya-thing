@@ -1,3 +1,54 @@
+
+NEW ROLEPLAY:Doctor (Patient)
+NEW CARD:1
+KANJI:すみません、頭が痛いんです。
+FURIGANA:すみません、あたま が いたいん です。
+ROMAJI:Sumimasen, atama ga itai n desu.
+TRANSLATION:Excuse me, I have a headache.
+
+NEW CARD:2
+KANJI:昨日から熱があります。
+FURIGANA:きのう から ねつ が あります。
+ROMAJI:Kinou kara netsu ga arimasu.
+TRANSLATION:I’ve had a fever since yesterday.
+
+NEW CARD:3
+KANJI:薬をもらえますか?
+FURIGANA:くすり を もらえます か?
+ROMAJI:Kusuri o moraemasu ka?
+TRANSLATION:Can I get some medicine?
+
+NEW CARD:4
+KANJI:学校を休んだほうがいいですか?
+FURIGANA:がっこう を やすんだ ほう が いい です か?
+ROMAJI:Gakkou o yasunda hou ga ii desu ka?
+TRANSLATION:Should I stay home from school?
+
+NEW ROLEPLAY:Doctor (Staff)
+NEW CARD:1
+KANJI:どのくらい痛みますか?
+FURIGANA:どのくらい いたみます か?
+ROMAJI:Dono kurai itamimasu ka?
+TRANSLATION:How bad is the pain?
+
+NEW CARD:2
+KANJI:熱を測りましょう。
+FURIGANA:ねつ を はかりましょう。
+ROMAJI:Netsu o hakarimashou.
+TRANSLATION:Let’s check your temperature.
+
+NEW CARD:3
+KANJI:この薬を一日三回飲んでください。
+FURIGANA:この くすり を いちにち さんかい のんで ください。
+ROMAJI:Kono kusuri o ichinichi sankai nonde kudasai.
+TRANSLATION:Please take this medicine three times a day.
+
+NEW CARD:4
+KANJI:無理せず、ゆっくり休んでください。
+FURIGANA:むりせず、ゆっくり やすんで ください。
+ROMAJI:Muri sezu, yukkuri yasunde kudasai.
+TRANSLATION:Don’t overdo it, please rest well.
+
 NEW ROLEPLAY:Restaurant (Worker)
 NEW CARD:1
 KANJI:ご 予約 はされているんでしょうか?
@@ -16,6 +67,12 @@ KANJI:こちらの席へ どうぞ
 FURIGANA:こちらの せき へ どうぞ
 ROMAJI:Kochira no seki e douzo
 TRANSLATION:This way, please
+
+NEW CARD:4
+KANJI:メニューをどうぞ。
+FURIGANA:メニュー を どうぞ。
+ROMAJI:Menyuu o douzo.
+TRANSLATION:Here is the menu.
 
 NEW ROLEPLAY:Restaurant (Customer)
 NEW CARD:1
@@ -36,6 +93,12 @@ FURIGANA:ありがとう ございます。
 ROMAJI:Arigatou gozaimasu.
 TRANSLATION:Thank you very much.
 
+NEW CARD:4
+KANJI:この席で大丈夫です。
+FURIGANA:この せき で だいじょうぶ です。
+ROMAJI:Kono seki de daijoubu desu.
+TRANSLATION:This seat is fine.
+
 NEW ROLEPLAY:Train Station (Seeker)
 NEW CARD:1
 KANJI:すみません、カバンをなくしました。
@@ -55,6 +118,12 @@ FURIGANA:どこ で きけば いい ですか?
 ROMAJI:Doko de kikeba ii desu ka?
 TRANSLATION:Where should I ask for help?
 
+NEW CARD:4
+KANJI:落とし物センターはどこですか?
+FURIGANA:おとしもの センター は どこ です か?
+ROMAJI:Otoshimono sentaa wa doko desu ka?
+TRANSLATION:Where is the lost and found center?
+
 NEW ROLEPLAY:Train Station (Staff)
 NEW CARD:1
 KANJI:落とし物ですね。いつなくされましたか?
@@ -73,3 +142,9 @@ KANJI:駅の事務室で受け取れます。
 FURIGANA:えき の じむしつ で うけとれます。
 ROMAJI:Eki no jimushitsu de uketoremasu.
 TRANSLATION:You can pick it up at the station office.
+
+NEW CARD:4
+KANJI:特徴を教えていただけますか?
+FURIGANA:とくちょう を おしえて いただけます か?
+ROMAJI:Tokuchou o oshiete itadakemasu ka?
+TRANSLATION:Can you tell me some identifying features?
