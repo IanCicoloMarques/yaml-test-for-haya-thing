@@ -1,54 +1,3 @@
-
-NEW ROLEPLAY:Doctor (Patient)
-NEW CARD:1
-KANJI:すみません、頭が痛いんです。
-FURIGANA:すみません、あたま が いたいん です。
-ROMAJI:Sumimasen, atama ga itai n desu.
-TRANSLATION:Excuse me, I have a headache.
-
-NEW CARD:2
-KANJI:昨日から熱があります。
-FURIGANA:きのう から ねつ が あります。
-ROMAJI:Kinou kara netsu ga arimasu.
-TRANSLATION:I’ve had a fever since yesterday.
-
-NEW CARD:3
-KANJI:薬をもらえますか?
-FURIGANA:くすり を もらえます か?
-ROMAJI:Kusuri o moraemasu ka?
-TRANSLATION:Can I get some medicine?
-
-NEW CARD:4
-KANJI:学校を休んだほうがいいですか?
-FURIGANA:がっこう を やすんだ ほう が いい です か?
-ROMAJI:Gakkou o yasunda hou ga ii desu ka?
-TRANSLATION:Should I stay home from school?
-
-NEW ROLEPLAY:Doctor (Staff)
-NEW CARD:1
-KANJI:どのくらい痛みますか?
-FURIGANA:どのくらい いたみます か?
-ROMAJI:Dono kurai itamimasu ka?
-TRANSLATION:How bad is the pain?
-
-NEW CARD:2
-KANJI:熱を測りましょう。
-FURIGANA:ねつ を はかりましょう。
-ROMAJI:Netsu o hakarimashou.
-TRANSLATION:Let’s check your temperature.
-
-NEW CARD:3
-KANJI:この薬を一日三回飲んでください。
-FURIGANA:この くすり を いちにち さんかい のんで ください。
-ROMAJI:Kono kusuri o ichinichi sankai nonde kudasai.
-TRANSLATION:Please take this medicine three times a day.
-
-NEW CARD:4
-KANJI:無理せず、ゆっくり休んでください。
-FURIGANA:むりせず、ゆっくり やすんで ください。
-ROMAJI:Muri sezu, yukkuri yasunde kudasai.
-TRANSLATION:Don’t overdo it, please rest well.
-
 NEW ROLEPLAY:Restaurant (Worker)
 NEW CARD:1
 KANJI:ご 予約 はされているんでしょうか?
@@ -76,10 +25,10 @@ TRANSLATION:Here is the menu.
 
 NEW ROLEPLAY:Restaurant (Customer)
 NEW CARD:1
-KANJI:はい、予約しています。名前はマルケスです。
-FURIGANA:はい、よやく しています。なまえ は マルケス です。
-ROMAJI:Hai, yoyaku shiteimasu. Namae wa Marukesu desu.
-TRANSLATION:Yes, I have a reservation. The name is Marques.
+KANJI:はい、予約しています。
+FURIGANA:はい、よやく しています
+ROMAJI:Hai, yoyaku shiteimasu.
+TRANSLATION:Yes, I have a reservation.
 
 NEW CARD:2
 KANJI:2人です。
