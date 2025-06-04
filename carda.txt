@@ -1,3 +1,35 @@
+NEW ROLEPLAY:花 (Flower)
+NEW CARD:1
+KANJI:Onyomi　か
+FURIGANA:Onyomi　か
+ROMAJI:Onyomi ka
+TRANSLATION:Onyomi ka
+
+NEW CARD:2
+KANJI:Kunyomi　はな
+FURIGANA:Kunyomi　はな
+ROMAJI:Kunyomi　hana
+TRANSLATION:Kunyomi　hana
+
+NEW ROLEPLAY:花 - Examples
+NEW CARD:1
+KANJI:花　はな
+FURIGANA:花　はな
+ROMAJI:花　hana
+TRANSLATION:花　hana
+
+NEW CARD:2
+KANJI:花粉　かふん
+FURIGANA:花粉　かふん
+ROMAJI:花粉　kafun
+TRANSLATION:花粉 kafun
+
+NEW CARD:3
+KANJI:花火　はなび
+FURIGANA:花火　はなび
+ROMAJI:花火　hanabi
+TRANSLATION:It's irregular!!!
+
 NEW ROLEPLAY:Doctor (Patient)
 NEW CARD:1
 KANJI:すみません、頭が痛いんです。
