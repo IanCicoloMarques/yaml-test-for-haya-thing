@@ -1,8 +1,44 @@
-[
-  {
-    "Card": "Flower",
-    "Kanji": "花",
-    "Romaji": "hana",
-    "Translation": "fawer"
-  }
-]
+{
+	"Topics": [
+		{
+			"Topic": "Flowers",
+			"Cards": [
+				{
+					"Title": "花 (Hana)",
+					"Kanji": "花",
+					"Reading": {
+						"Kunyomi": "か",
+						"Onyomi": "はな",
+						"Other": [
+							{
+								"Title": "Emphasis",
+								"Information": "ha-NA^"
+							},
+							{
+								"Title": "I dont know",
+								"Information": "Just leaving the option open"
+							}
+						]
+					},
+					"Examples": [
+						{
+							"Kanji": "花",
+							"Reading": "はな",
+							"Information": "Base Kanji"
+						},
+						{
+							"Kanji": "花粉",
+							"Reading": "かふん",
+							"Information": "Translation: Pollen"
+						},
+						{
+							"Kanji": "花火",
+							"Reading": "はなび",
+							"Information": "Translation: Fireworks. Uses irregular reading (はな)."
+						}
+					]
+				}
+			]
+		}
+	]
+}
