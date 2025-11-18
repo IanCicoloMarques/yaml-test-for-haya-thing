@@ -1,6 +1,39 @@
 {
   "Topics": [
     {
+      "Topic": "Haya example",
+      "Cards": [
+        {
+          "Kanji": "花",
+          "Meaning": "Flower",
+          "KunyomiKana": "はな",
+          "KunyomiRomaji": "hana",
+          "OnyomiKana": "か",
+          "OnyomiRomaji": "ka",
+          "Examples": [
+            {
+              "Kanji": "花",
+              "Furigana": "はな",
+              "Romaji": "hana",
+              "Meaning": "flower"
+            },
+            {
+              "Kanji": "花粉",
+              "Furigana": "かふん",
+              "Romaji": "kafun",
+              "Meaning": "pollen"
+            },
+            {
+              "Kanji": "花火",
+              "Furigana": "はなび",
+              "Romaji": "hanabi (still irregular!!!!)",
+              "Meaning": "fireworks"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Topic": "Numbers",
       "Cards": [
         {
@@ -33,7 +66,7 @@
         },
         {
           "Kanji": "二",
-          "Meaning": "Number two",
+          "Meaning": "Two",
           "KunyomiKana": "ふたつ",
           "KunyomiRomaji": "futatsu",
           "OnyomiKana": "に",
